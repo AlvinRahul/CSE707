@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/uhS5e6mrdCw
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1FrSCAg2kqynOY_uXtyUUOODkuHr4DSYU/
+https://docs.google.com/presentation/d/1jPRioJrxgZuqe6R7d9Cbco9JBL5a-t4wAG8NV9h2wl4/edit?pli=1#slide=id.p1
 
 Paper Title:
 A joint cross-attention model for audio-visual fusion in dimensional emotion recognition
