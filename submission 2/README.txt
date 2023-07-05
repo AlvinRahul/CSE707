@@ -1,0 +1,18 @@
+Link to unlisted YouTube video:
+https://youtube.com/.....
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1FrSCAg2kqynOY_uXtyUUOODkuHr4DSYU/
+
+Paper title:
+A joint cross-attention model for audio-visual fusion in dimensional emotion recognition
+
+Link to the paper:
+https://arxiv.org/abs/2203.14779
+https://arxiv.org/pdf/2203.14779.pdf
+
+Group Number:
+13
+
+Individual Submitter:
+23166005 Alvin Rahul Hore
